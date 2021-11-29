@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Students management system**
 
-- 🌱 I’m currently learning **Php, Bootstrap and jsp.**
+- 🌱 I’m currently learning **Php, Bootstrap and Spring.**
 
 - 💬 Ask me about **Java, JavaScript, HTML, CSS.**
 
