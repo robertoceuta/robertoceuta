@@ -10,11 +10,11 @@
 - 📫 How to reach me **robertopoyato@outlook.com**
 
 <h3 align="left">Sobre mí:</h3>
-<p align="left">Amante del mundillo, decidí dar un giro a mi carrera para profesionalizar los conocimientos que durante años fui adquiriendo para hacer de mi pasión una forma de vida. Llevo 3 años perfecionando el arte de escribir código con manuales, cursos y una formación profesional. El Backend es mi devoción y el Frontend es mi obligación. Me gusta enfrentarme a retos nuevos que exijan aprender más cosas o reinventar las ya aprendidas. Orgulloso de decir que realizo aplicaciones web con estilo, rápidas y estables. 
+<p align="left">Amante del mundillo, decidí dar un giro a mi carrera para profesionalizar los conocimientos que durante años fui adquiriendo para hacer de mi pasión una forma de vida. Llevo 3 años perfecionando el arte de escribir código con manuales, cursos y una formación profesional. El Backend es mi devoción y el Frontend es mi afición. Me gusta enfrentarme a retos nuevos que exijan aprender más cosas o reinventar las ya aprendidas. Orgulloso de decir que realizo aplicaciones web con estilo, rápidas y estables. 
 </p>
 
 <h3 align="left">About me:</h3>
-<p align="left">A lover of this world, I decided to turn my career around to professionalize the knowledge that I was acquiring over the years to make my passion a way of life. I have been perfecting the art of writing code for 3 years with manuals, courses and professional training. The Backend is my devotion and the Frontend is my obligation. I like to face new challenges that require learning more things or reinventing those already learned. Proud to say that I build stylish, fast and stable web applications.
+<p align="left">A lover of this world, I decided to turn my career around to professionalize the knowledge that I was acquiring over the years to make my passion a way of life. I have been perfecting the art of writing code for 3 years with manuals, courses and professional training. The Backend is my devotion and the Frontend is my hobby. I like to face new challenges that require learning more things or reinventing those already learned. Proud to say that I build stylish, fast and stable web applications.
 </p>
 
 <h3 align="left">Connect with me:</h3>
